@@ -28,12 +28,5 @@ reverseArray(arr,n,M);
 for(int i =M+1;i<=n-1;i++){
     cout<<arr[i]<<" ";
 }
-
-
-
-
-
-
-
     return 0;
 }
