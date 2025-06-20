@@ -14,18 +14,6 @@ void reverseArray(int arr[] ,int n ,int M){
 }
 
 
-
-
-
-
-
-
-
-
-
-
-
-
 int main(){
 int n,M;
 cin>>n>>M;
